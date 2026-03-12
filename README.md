@@ -1,9 +1,11 @@
 # Lab4_Machine
 
 Overview:
+
 This lab focuses on data preprocessing using the StudentPerformanceFactors dataset. The goal is to identify data quality issues and apply common preprocessing techniques to prepare the data for analysis.
 
 Tasks:
+
 Task 1: Data Quality Assessment:
 The dataset is examined to understand its structure and detect potential issues. This includes checking data types, missing values, duplicates, and basic statistical summaries.
 
